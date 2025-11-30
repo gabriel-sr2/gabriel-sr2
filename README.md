@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https://github.com/CtorW">
+<a href="https://github.com/gabi">
 <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
@@ -55,25 +55,3 @@
 | ------------- | ------------- |
 | ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
 
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
-
-
-</div>
-
-<br>
-<br>
-
-<div align="Center">
-
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
-
-</div>
-
-------
-
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
