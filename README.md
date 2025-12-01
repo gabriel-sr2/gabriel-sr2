@@ -4,3 +4,5 @@
 <div align="center">
   
 ![chico_programando_versi_n_anime](https://github.com/user-attachments/assets/5cd5d345-d5a5-4312-81b8-bef07779df9c)
+
+Lenguajes y programas 
