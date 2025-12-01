@@ -6,6 +6,4 @@
 <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
-
-
-![Vídeo sin título ‐ Hecho con Clipchamp (1) (1) (1)](https://github.com/user-attachments/assets/4ae56338-c43c-4688-9e8e-121daa50cdbc)
+![chico_programando_versi_n_anime](https://github.com/user-attachments/assets/5cd5d345-d5a5-4312-81b8-bef07779df9c)
