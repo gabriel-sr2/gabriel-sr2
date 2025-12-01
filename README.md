@@ -21,7 +21,35 @@
 
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=discord,eclipse,github,py,java)](https://skillicons.dev)
+<div align="center">
+
+| `LENGUAJES` | `EXPERIENCIA` |
+|:-----:|:-----:|
+| [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) |   AVANZADA    |
+| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) |    AVANZADA  |
+
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+| `LENGUAJES` | `EXPERIENCIA` |
+|:-----:|:-----:|
+| [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev) |   INTERMEDIA    |
+| [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) |    INTERMEDIA  |
+| [![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev) |    PRINCIPIANTE   |
+| [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) |    INTERMEDIA   |
+
+
+</div>
+
+
+
+
+
+
 
 
 
