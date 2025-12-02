@@ -74,9 +74,15 @@
 <br><br> 
 
 
-<div align="center">
-  <img width="1280" height="731" alt="Gemini_Generated_Image_jsa41sjsa41sjsa4-Photoroom" src="https://github.com/user-attachments/assets/c970591b-faea-45ca-b768-7fcdca3bd6c5" />
+<p align="right">👀“¿Querés ver mis proyectos? ¡Tocá el link y viajá directo!🚀</p>
+
+
+<div align="center">  
+  <img width="1280" height="731" alt="Gemini_Generated_Image_chjieochjieochji-Photoroom" src="https://github.com/user-attachments/assets/6f2a4d93-254b-47bb-a595-3a94dd3e2d9d" />
+
 </div>
+
+
 
 
 
