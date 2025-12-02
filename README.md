@@ -26,6 +26,10 @@
 
 
 
+
+
+
+
 | `LENGUAJES` | `EXPERIENCIA` |
 |:-----:|:-----:|
 | [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) |   AVANZADA    |
