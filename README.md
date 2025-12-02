@@ -32,8 +32,8 @@
 
 | `LENGUAJES` | `EXPERIENCIA` |
 |:-----:|:-----:|
-| [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) |   AVANZADA    |
-| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) |    AVANZADA  |
+| [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) |   INTERMEDIA    |
+| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) |    INTERMEDIA  |
 
 
 </div>
@@ -56,7 +56,7 @@
 <br><br><br><br> 
 
 
-<h2 align="center">INFORMACION GITHUB</h2>
+<h2 align="center"> ESTADISTICAS </h2>
 
 <br><br> 
 
@@ -64,6 +64,21 @@
 <div align="center">
     <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </div>
+
+
+<br><br><br><br> 
+
+
+<h2 align="center"> PROYECTOS </h2>
+
+<br><br> 
+
+
+<div align="center">
+  <img width="1280" height="731" alt="Gemini_Generated_Image_jsa41sjsa41sjsa4-Photoroom" src="https://github.com/user-attachments/assets/c970591b-faea-45ca-b768-7fcdca3bd6c5" />
+</div>
+
+
 
 
 
