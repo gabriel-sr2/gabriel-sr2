@@ -53,6 +53,22 @@
 </div>
 
 
+<br><br><br><br> 
+
+
+<h2 align="center">INFORMACION GITHUB</h2>
+
+<br><br> 
+
+
+<div align="center">
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</div>
+
+
+
+
+
 
 
 
