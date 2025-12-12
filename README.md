@@ -73,8 +73,15 @@
 
 <br><br> 
 
-
 <p align="right">👀“¿Querés ver mis proyectos? ¡Tocá el link y viajá directo!🚀</p>
+
+<p align="right">
+  <a href="https://gabriel-sr2.github.io/" target="_blank">
+    <b>[ proyectos ]</b>
+  </a>
+</p>
+
+
 
 
 <div align="center">  
