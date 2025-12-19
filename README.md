@@ -44,10 +44,10 @@
 
 | `LENGUAJES` | `EXPERIENCIA` |
 |:-----:|:-----:|
-| [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev) |   INTERMEDIA    |
-| [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) |    INTERMEDIA  |
+| [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev) |   PRINCIPIANTE    |
+| [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) |    PRINCIPIANTE  |
 | [![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev) |    PRINCIPIANTE   |
-| [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) |    INTERMEDIA   |
+| [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) |    PRINCIPIANTE   |
 
 
 </div>
